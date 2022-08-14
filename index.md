@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>
+	Peter & Sons Co
+</title>
+<script language="javascript" type="text/javascript">
+</script>
 
-You can use the [editor on GitHub](https://github.com/Tagnule/tagnule.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<style>
+body 
+{ color:  red;
+background-color:  white; }
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
+<body >
 
-### Markdown
+<table border=0 align=center width=780 bgcolor=>
+<tr>
+	<th colspan=2>
+			<img src="D://Website/images/ECL.jpg" width=180></img>
+			<script src="app.js"></script>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	</th>
+</tr>
+<tr>
+	<td width=100 align=center><br><br>
+			<a href="D://Website/home.html">Home</a><br><br>
+			<a href="D://Website/services.html">Services </a><br><br>
+			<a href="D://Website/contacts.html">Contacts </a><br><br>
+	</td>
+	<td width=680><br><br>
+			<b>Welcome to Peter & Sons Website</b> <br>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<img src="D://Website/images/IMG.gif" width=380 align=right></img>
 
-- Bulleted
-- List
+<h1 style="color:yellow;background-color:green"> 
+Teso Times is an online newspaper </h1> 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+that was started in 2021. The site publishes news content
+covering all the regions in Teso, Eastern Uganda, Uganda, Africa and and other international scenes as well.
+We source and publish news of daily happenings, politics, health, games, sports and many other niches.
+<br><br>
+<b>TESO MISSION AND VISION<br></b>
+<br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<b>Mission: </b>to produce and publish content that appeals to public interest accurately and ensure that there is value
+for our readers.<br><br>
 
-### Jekyll Themes
+<b>Vision:</b> Our vision is to achieve our goals and satisfy our readers through hard work, accuracy and integrity.
+<h1>Bye bye </h1>
+	</td>
+</tr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tagnule/tagnule.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
